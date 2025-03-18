@@ -1,6 +1,6 @@
 import cv2 as cv
 import numpy as np
-import lukas_alg_final as lk
+import lk_final as lk
 
 video_scenes = [[16.5, 18.5], [7,9]]
 scene_no = 0
